@@ -1,0 +1,27 @@
+<output name="WTG_2025" device="EMTDC" version="2010" date="2025/01/05" time="12:39:52.000000">
+  <paramlist />
+  <domain name="Time" unit="s" mult="0.0" skew="0.0">
+    <sample rate="1000.0" end="60000" />
+  </domain>
+  <analog>
+    <channel index="0" id="135484007:0" name="I_wtg" label="" dim="3" unit="" min="-2.0" max="2.0" />
+    <channel index="3" id="1052808515:0" name="I_grid" label="" dim="3" unit="" min="-2.0" max="2.0" />
+    <channel index="6" id="1976041094:0" name="V_wtg" label="" dim="3" unit="" min="-2.0" max="2.0" />
+    <channel index="9" id="423955317:0" name="V_grid" label="" dim="3" unit="" min="-2.0" max="2.0" />
+    <channel index="12" id="215309404:0" name="P_wtg" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="13" id="1399689891:0" name="I_DC_Link" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="14" id="1075277032:0" name="P_grid" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="15" id="523492914:0" name="Q_wtg" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="16" id="2070777357:0" name="DC_Voltage" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="17" id="1652426201:0" name="Q_grid" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="18" id="275862583:0" name="U_rms_wtg" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="19" id="1217294599:0" name="U_rms_grid" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="20" id="1704858560:0" name="Electromagnetic Torque" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="21" id="2128269830:0" name="Reactive Power" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="22" id="204879464:0" name="Active Power" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="23" id="548968781:0" name="Turbine Power" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="24" id="70106176:0" name="Mechanical_Torque" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="25" id="1913851040:0" name="Mechanical Speed" label="" dim="1" unit="" min="-2.0" max="2.0" />
+  </analog>
+  <digital />
+</output>

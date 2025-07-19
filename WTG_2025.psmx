@@ -1,0 +1,37 @@
+<Project name="WTG_2025">
+  <hierarchy />
+  <messagelist>
+    <message status="normal" label="build" groupid="400002" scope="WTG_2025" id="169143484" classid="MessageObj"><![CDATA[Begin compiling with PSCAD Version Free]]></message>
+    <message status="normal" label="build" groupid="100006" link="1032449556" id="1032449556" classid="FileNavigator"><![CDATA[Generating 'C:\Users\zgb 99\Desktop\PSCAD\Wind Turbine\WTG_2025.gf46\WTG_2025.map'.]]><file scope="WTG_2025">C:\Users\zgb 99\Desktop\PSCAD\Wind Turbine\WTG_2025.gf46\WTG_2025.map</file></message>
+    <message status="normal" label="build" groupid="100015" scope="WTG_2025" id="1315781549" classid="MessageObj"><![CDATA[The total number of live nodes: 30]]></message>
+    <message status="normal" label="build" groupid="0" link="1683170695" id="1683170695" classid="FileNavigator"><![CDATA[Coding .mak file: 'C:\Users\zgb 99\Desktop\PSCAD\Wind Turbine\WTG_2025.gf46\\WTG_2025.mak']]><file scope="WTG_2025">C:\Users\zgb 99\Desktop\PSCAD\Wind Turbine\WTG_2025.gf46\\WTG_2025.mak</file></message>
+    <message status="error" label="build" groupid="300501" scope="WTG_2025" id="1585812294" classid="MessageObj"><![CDATA[The current license is limited to a maximum of 15 electrical nodes.
+This project contains 30 electrical nodes.]]></message>
+    <message status="normal" label="build" groupid="100001" scope="WTG_2025" id="1909381642" classid="MessageObj"><![CDATA[Non-professional licenses are limited to a single, electrical subsystem. Subsystem splitting has been internally disabled for this simulation.]]></message>
+    <message status="normal" label="build" groupid="400000" scope="WTG_2025" id="279388074" classid="MessageObj"><![CDATA[Time for Compile: 0ms  Make: 0ms]]></message>
+    <message status="normal" label="build" groupid="400003" scope="WTG_2025" id="1805849625" classid="MessageObj"><![CDATA[Finished compiling with PSCAD Version Free]]></message>
+    <message status="normal" label="build" groupid="400001" scope="WTG_2025" id="1871027681" classid="MessageObj"><![CDATA[======== Build: 1 errors, 0 warnings ========]]></message>
+  </messagelist>
+  <emt>
+    <netlist name="Station" call_count="1" ss_count="0">
+      <signals>
+        <signal name="GND" dim="1" ss_id="0" node_map_count="1" local_storage_index="0">
+          <sg_points />
+          <node_number global="0" sg_local="0" sg_callindex="0" />
+        </signal>
+      </signals>
+      <components>
+        <component id="137131197" />
+      </components>
+    </netlist>
+  </emt>
+  <views>
+    <view name="Main" zoomlevel="7" scrollx="0" scrolly="99" />
+  </views>
+  <catalog>
+    <group name="(No Label)" />
+  </catalog>
+  <List classid="View">
+    <View name="Main" zoomscale="1.5" scrollx="861" scrolly="0" />
+  </List>
+</Project>
